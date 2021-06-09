@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Squada One", cursive;
+}
+ul {
+  border: 1px solid #000;
+}
+ul li {
+  color: #000;
+  background-color: beige;
+  /* margin: 2px 0; */
+  border: 1px solid #000;
+  text-align: center;
+  font-size: 25px;
+}
+ul li:hover {
+  background-color: #f8f8f8;
+}
+.checken,
+.beef,
+.sushi {
+  background-color: #999999;
+  margin: 25px;
+  padding: 30px;
+}
+h2 {
+  font-size: 25px;
+  font-family: "Squada One", cursive;
+  margin-bottom: 30px;
+}
+p {
+  font-size: 16px;
+}
